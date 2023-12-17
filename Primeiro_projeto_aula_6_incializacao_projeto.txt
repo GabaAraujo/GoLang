@@ -1,0 +1,32 @@
+E necessario quando for criar um projeto - iniciar
+
+Go Mod init *nome projeto*
+
+Criar o arquivo - ex: main.go
+
+
+importar os package - ex:package main
+
+
+-- instanciar o main
+
+ex:
+
+package main
+
+import "fmt"
+
+func main(){
+	
+	
+	fmt.Println("Hello World")
+}
+
+
+
+Para executar: go run main.go(nome do arquivo)
+
+
+
+Go Build - > gera o binario / exe - aplicacao
+

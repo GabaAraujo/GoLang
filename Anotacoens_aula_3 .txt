@@ -1,0 +1,15 @@
+rapida compilacao
+alta performance
+deploy cimples
+facil aprendizado
+
+
+
+Não e orientada a objetos mas aceita todos os comandos
+----------------
+Garbage collector
+multi plataforma
+seguranca
+alta performance
+deploy simples
+concorrencia

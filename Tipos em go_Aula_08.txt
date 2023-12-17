@@ -1,0 +1,51 @@
+Tipos em go
+
+Ela e uma linguagem fortemente tipada, ou seja o tipo tem de ser declarado
+e ele nao muda no meio do programa.
+
+
+
+declaraçao
+
+-Tipos de String-
+var name String
+name := "Name"
+
+
+-Tipos de declaração Int-
+var idade int
+name := 30
+
+
+-Tipo declarado Float
+
+var horas float
+horas := 12.38
+
+
+
+
+=================================
+
+
+Funções em go
+ex:
+->main
+
+package main
+
+import (
+	"fmt" 
+)
+
+func main() {
+
+	name := getName() -> atribui o dado recebido da funcao
+	fmt.Println("Hello", name)
+
+}
+
+func getName() string { //retorna uma string -> enviao string
+
+	return "Gabriel"
+}

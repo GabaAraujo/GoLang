@@ -1,0 +1,30 @@
+array do tipo string
+
+os.Args ex:
+
+
+if len(os.Args) != 2 
+{
+
+}
+
+
+//Args[0,1]
+
+if len(os.Args) != 2 //verifica se o array tem valores diferentes de 2
+{
+
+ os.Exit(1) // se for diferente faz o sistema operacional sair
+}
+
+
+O array[1] -> comeca de 1 pois 0 exatamente o nome do arquivo
+
+entao se ele capta valores com o ARGS( VALORES RECEBIDOS PELO SISTEMA OPERACIONAL VIA PROMP OU OUTRA COISA)
+ELE COMECA DO 1 - lembrando que Args comeca so com Array
+
+
+
+
+os.Exit(1) -> diz ao sistema operacional que deu erro e fecha o programa
+os.Exit(0) -> quer dizer que deu certo o programa

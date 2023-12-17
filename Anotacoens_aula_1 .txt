@@ -1,0 +1,9 @@
+sysadmin -> guiado por interrupcoes - automação
+
+SRE -> Orientado a projeto/ focado em soluções escalaveis
+
+DevOps-> Automação e focado no pipeline de desenvolvimento
+baseade em deployment(frequencia/taxa de erro por deploy)
+
+
+

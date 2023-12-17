@@ -1,0 +1,42 @@
+Caso De uso:
+
+XGH COMPANY -> APLICAR VARIOS CASOS DE USO.
+
+Introdução ->
+Projeto de inovação de TI.
+
+Limitações ->
+
+Empresa ficticia utilizada em nosso curso
+nao temos dinheiro
+quando temos dinheiro, o processo de aquisição e lento
+impossivel contratar mais gente
+Problema de recorrencia de producao
+falhas de seguranca
+Area de negocios reclama da agilidade de TI
+
+
+---------------------------------
+Problemas recorrentes
+
+Atividades 100% Manuais
+Baixa Produtiviodade
+Horais extras/finais de semana comprometidos
+Deplys problematicos
+relatorios executados manualmente
+
+
+=================================
+
+Problemas de seguranca/vazamento de dados
+report de consumo de maquina leva dias pra ser enviado
+problemas de estouro de disco
+restart quase diario de aplicacoes
+alertas ineficientes enviados por e-mail
+
+--------------------------------------
+Documentos em rascunho tramitados como definivos
+
+time de marketing nao consegue publicar fotos de campanha
+
+gerenciamento de PDFs e caotico

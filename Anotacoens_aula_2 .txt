@@ -1,0 +1,25 @@
+Perfil de engenheiro de operações
+-> se destacar no mercado
+
+Gerenciamento de sistema operacional(atualização)
+backups
+seguranca
+monitoria
+troubleshooting( atuação) -> 
+
+Rotinas do SRE
+------------------
+Rotina de operações
+Automação
+escabilidade
+Observability
+
+
+Automação
+--------
+
+Reduzir e eliminar o Toil(trabalho repetitivo)
+Linguagem de script
+Soluções escalaveis
+
+
